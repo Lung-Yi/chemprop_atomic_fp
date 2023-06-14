@@ -1,0 +1,35 @@
+Evaluation: mfp_mean
+Evaluation: mfp_sum
+Evaluation: afp
+Evaluation: hybrid_dim0
+Evaluation: hybrid_dim1
+=============================================
+For mfp_mean model, the best model is:
+Fold 5:
+Hyperparameter: (0, 300, 3)
+RMSE: 1.2537931806072915
+=============================================
+=============================================
+For mfp_sum model, the best model is:
+Fold 9:
+Hyperparameter: (0, 400, 4)
+RMSE: 1.2330393193018594
+=============================================
+=============================================
+For afp model, the best model is:
+Fold 7:
+Hyperparameter: (0, 400, 2)
+RMSE: 1.2357114451844036
+=============================================
+=============================================
+For hybrid_dim0 model, the best model is:
+Fold 7:
+Hyperparameter: (0, 400, 2)
+RMSE: 1.2197728721967165
+=============================================
+=============================================
+For hybrid_dim1 model, the best model is:
+Fold 8:
+Hyperparameter: (0, 400, 3)
+RMSE: 1.2284199171014527
+=============================================

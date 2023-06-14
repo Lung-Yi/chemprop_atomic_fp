@@ -1,0 +1,16 @@
+Loading training args
+Loading data
+Validating SMILES
+Test size = 1,535
+Predicting with an ensemble of 1 models
+Loading pretrained parameter "encoder.encoder.0.cached_zero_vector".
+Loading pretrained parameter "encoder.encoder.0.W_i.weight".
+Loading pretrained parameter "encoder.encoder.0.W_h.weight".
+Loading pretrained parameter "encoder.encoder.0.W_o.weight".
+Loading pretrained parameter "encoder.encoder.0.W_o.bias".
+Loading pretrained parameter "ffn.1.module.weight".
+Loading pretrained parameter "ffn.1.module.bias".
+Loading pretrained parameter "ffn.4.module.weight".
+Loading pretrained parameter "ffn.4.module.bias".
+Saving predictions to save_models/feature_4/transfer_CCSD_exp_atomic_size_split_10/test_pred_additional/results.csv
+Elapsed time = 0:00:02

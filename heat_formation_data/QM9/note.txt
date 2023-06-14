@@ -1,0 +1,1 @@
+Remove the zwitterions and the molecules with F atom.

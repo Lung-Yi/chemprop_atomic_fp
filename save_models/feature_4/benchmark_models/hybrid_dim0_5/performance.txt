@@ -1,0 +1,12 @@
+Overall:
+RMSE,MAE
+7.5888,3.2056
+acyclic:
+RMSE,MAE
+2.0418,1.5307
+monocyclic:
+RMSE,MAE
+5.6604,3.2841
+polycyclic:
+RMSE,MAE
+15.0754,8.0619
