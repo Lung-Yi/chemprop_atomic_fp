@@ -1,4 +1,4 @@
-# Molecular Property Prediction
+# Molecular Property Prediction Using Atomic Fingerprint
 This repositiory is used to implement the aotmic fingerprint method in Chemprop.
 
 Please refer to the paper:
